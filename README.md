@@ -103,8 +103,8 @@ We welcome contributions! Please:
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Commercial License
+This software and its associated files are provided under a commercial license. Unauthorized use, distribution, or modification is strictly prohibited. For licensing inquiries, please contact the author.
 
 ## Acknowledgments
 - Inspired by research on 3D molecular modeling and quantum chemistry datasets.
