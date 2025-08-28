@@ -109,3 +109,5 @@ This software and its associated files are provided under a commercial license. 
 ## Acknowledgments
 - Inspired by research on 3D molecular modeling and quantum chemistry datasets.
 - Thanks to the QM9 dataset contributors.
+
+## IF YOU HAVE THE ABILITY TO TEST WITH A LARGER DATASET, PLEASE TEST IT AND SHARE THE RESULTS WITH ME AT kisalnelaka6@gmail.com .
